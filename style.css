@@ -1,0 +1,13 @@
+.border {
+  border: none;
+  margin: 50px;
+}
+.form {
+  margin: 50px;
+  padding-right: 50px;
+}
+.header {
+  margin-left: 500px;
+  margin-bottom: 30px;
+  align-items: center;
+}
